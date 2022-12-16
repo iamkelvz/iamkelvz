@@ -10,5 +10,5 @@
                ➡️ CodeIgniter
              ➡️ CSS
              ➡️ Python
-Hoping to get more information and learning more in this community.
+Hoping to get more information and learn more in this community.
 </pre>
